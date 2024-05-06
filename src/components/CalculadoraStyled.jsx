@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 export const Calculadora = styled.div`
-  padding: 54px 32px 32px 32px;
-  border-radius: 48px;
-  background: #2d2a37;
+  padding: 3.2rem 2.2rem 2.2rem 2.2rem;
+  border-radius: .8rem;
+  background: #252528;
   box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.22) inset,
     0px 6px 8px 0px rgba(255, 255, 255, 0.1) inset,
     0px 8px 17px 0px rgba(0, 0, 0, 0.29), 0px 30px 30px 0px rgba(0, 0, 0, 0.26),
@@ -14,6 +14,6 @@ export const Calculadora = styled.div`
 
 export const ContainerCalculadora = styled.div`
   display: grid;
-  gap: 12px;
+  gap: 0.8rem;
 `;
 

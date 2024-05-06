@@ -1,19 +1,19 @@
 import styled from "styled-components";
 
 export const Display = styled.div`
-  margin-bottom: 26px;
-  padding: 0 22px;
+  margin-bottom: 1.4rem;
+  padding: 0 .2rem;
 `;
 
 export const Operacao = styled.p`
-  color: #6b6b6b;
+  color: #f00;
   text-align: right;
-  font-size: 20px;
+  font-size: 1.2rem;
   letter-spacing: -0.4px;
-  margin-bottom: 8px;
+  margin-bottom: .2rem;
 
   p {
-    width: 258px;
+    width: 20rem;
     text-align: end;
     overflow: hidden;
     text-overflow: ellipsis;
